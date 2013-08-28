@@ -48,7 +48,7 @@
 		<hgroup>
 			<h1>Shorty - An Open Source URL Shortner in Struts2/Hibernate</h1>
 			<h3>Simply paste your URL. <em>We'll shrink it!</em></h3>
-			<h1>Testing</h1>
+			<h1>Hi Chris!!</h1>
 		</hgroup>
     </header>
 
